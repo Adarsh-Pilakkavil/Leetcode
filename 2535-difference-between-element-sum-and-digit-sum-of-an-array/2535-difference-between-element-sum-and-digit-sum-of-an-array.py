@@ -1,8 +1,9 @@
 class Solution:
     def differenceOfSum(self, nums: List[int]) -> int:
-        summ=0
+        ans= 0
         for i in nums:
-            l=list(str(i))
-            l=[int(x) for x in l]
-            summ+=sum(l)
-        return abs(sum(nums)-summ)
+            ans+= i
+            while i:
+                ans-=i%10
+                i//=10
+        return ans
