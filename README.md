@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2769-find-the-maximum-achievable-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2843-count-symmetric-integers](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2843-count-symmetric-integers) |
 | [2864-maximum-odd-binary-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2864-maximum-odd-binary-number) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 ## Enumeration
 |  |
