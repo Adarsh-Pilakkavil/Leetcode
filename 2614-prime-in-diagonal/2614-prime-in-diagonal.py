@@ -1,28 +1,20 @@
-class Solution(object):
-    def diagonalPrime(self, nums):
-        l=[]
-        c=0
-        k=0
-        for i in range(0,len(nums),1):
-            l.append(nums[i][i])
-            l.append(nums[i][len(nums)-i-1])
-        for i in l:
-            if i>k:
-                for j in range(2,i//2,1):
-                    if i%j==0:
-                        c+=1
-                        break
-                if i==1:
-                    c+=1
-                if c>0:
-                    c=0
-                else:
-                    if i>k:
-                        k=i
-                        c=0
-                    else:
-                        c=0
-        return k
+class Solution:
+    def diagonalPrime(self, nums: List[List[int]]) -> int:
+        def isPrime(num):
+            if num <=1:
+                return False
+            for i in range(2, int(num**0.5)+1):
+                if num % i == 0:
+                    return False
+            return True
+        biggest_prime = 0
+        length = len(nums)
+        for i in range(length):
+            if nums[i][i] > biggest_prime:
+                if isPrime(nums[i][i]):
+                    biggest_prime = nums[i][i]
+            if nums[i][length-i-1] > biggest_prime:
+                if isPrime(nums[i][length-i-1]):
+                    biggest_prime = nums[i][length-i-1]
 
-        
-        
+        return biggest_prime
