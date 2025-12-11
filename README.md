@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1534-count-good-triplets](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1534-count-good-triplets) |
 | [1925-count-square-sum-triples](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1925-count-square-sum-triples) |
 ## Array
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0695-max-area-of-island) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1534-count-good-triplets](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1534-count-good-triplets) |
 ## Hash Table
 |  |
 | ------- |
