@@ -62,6 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2544-alternating-digit-sum) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
+| [2578-split-with-minimum-sum](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2578-split-with-minimum-sum) |
+| [2614-prime-in-diagonal](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2614-prime-in-diagonal) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 ## Enumeration
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2614-prime-in-diagonal](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2614-prime-in-diagonal) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Hash Table
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0832-flipping-an-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1672-richest-customer-wealth) |
+| [2614-prime-in-diagonal](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2614-prime-in-diagonal) |
 ## Stack
 |  |
 | ------- |
@@ -218,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2578-split-with-minimum-sum](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2578-split-with-minimum-sum) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Counting Sort
 |  |
@@ -257,7 +262,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1720-decode-xored-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1720-decode-xored-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
-| [2595-number-of-even-and-odd-bits](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2595-number-of-even-and-odd-bits) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 ## Greedy
 |  |
@@ -275,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2578-split-with-minimum-sum](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2578-split-with-minimum-sum) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -408,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2413-smallest-even-multiple) |
+| [2614-prime-in-diagonal](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2614-prime-in-diagonal) |
 ## Brainteaser
 |  |
 | ------- |
