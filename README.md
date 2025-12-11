@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0050-powx-n) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1925-count-square-sum-triples) |
@@ -147,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
