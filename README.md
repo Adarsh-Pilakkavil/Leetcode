@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0326-power-of-three) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1925-count-square-sum-triples) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0326-power-of-three) |
 ## Dynamic Programming
 |  |
 | ------- |
