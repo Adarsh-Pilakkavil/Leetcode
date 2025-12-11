@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2235-add-two-integers) |
+| [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 ## Enumeration
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1534-count-good-triplets](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1534-count-good-triplets) |
 | [1925-count-square-sum-triples](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1952-three-divisors) |
+| [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 ## Array
 |  |
 | ------- |
