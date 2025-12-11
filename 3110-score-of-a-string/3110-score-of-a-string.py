@@ -3,6 +3,6 @@ class Solution:
         score=0
         for i in range(len(s)-1):
             st=abs(ord(s[i])-ord(s[i+1]))
-            score=score+st
+            score+=st
         return score
         
