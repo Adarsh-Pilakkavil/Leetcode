@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0009-palindrome-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1925-count-square-sum-triples) |
