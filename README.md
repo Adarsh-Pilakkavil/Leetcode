@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0070-climbing-stairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0078-subsets) |
 | [0645-set-mismatch](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0832-flipping-an-image) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0067-add-binary) |
 | [0832-flipping-an-image](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0832-flipping-an-image) |
 | [1929-concatenation-of-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0067-add-binary) |
 | [1446-consecutive-characters](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1446-consecutive-characters) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
