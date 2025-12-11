@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1470-shuffle-the-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1534-count-good-triplets](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1534-count-good-triplets) |
 | [1720-decode-xored-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1720-decode-xored-array) |
