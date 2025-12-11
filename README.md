@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3232-find-if-digit-game-can-be-won](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
+| [3280-convert-date-to-binary](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3280-convert-date-to-binary) |
 ## Enumeration
 |  |
 | ------- |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3110-score-of-a-string) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
+| [3280-convert-date-to-binary](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3280-convert-date-to-binary) |
 ## Two Pointers
 |  |
 | ------- |
