@@ -10,3 +10,12 @@ class Solution:
                 return length
         
         return -1
+        
+#If a number has remainder r when divided by k, then:
+# number = k * q + r
+# Now, when you append a 1 to the number:
+# new_number = number * 10 + 1
+# Its remainder mod k is:
+# (new_number % k) = (number % k * 10 + 1) % k
+#                  = (r * 10 + 1) % k
+# This lets you build the remainder, without building the number.
