@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2784-check-if-array-is-good](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [2917-find-the-k-or-of-an-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2917-find-the-k-or-of-an-array) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Hash Table
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-decode-xored-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1720-decode-xored-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [2917-find-the-k-or-of-an-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2917-find-the-k-or-of-an-array) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 ## Greedy
 |  |
