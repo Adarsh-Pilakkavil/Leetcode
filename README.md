@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1925-count-square-sum-triples) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1512-number-of-good-pairs](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1534-count-good-triplets) |
 | [1720-decode-xored-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1720-decode-xored-array) |
 | [1929-concatenation-of-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-number-of-good-pairs](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Depth-First Search
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1051-height-checker) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-number-of-good-pairs](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
