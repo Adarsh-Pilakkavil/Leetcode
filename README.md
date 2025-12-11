@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1925-count-square-sum-triples) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0067-add-binary) |
+| [0171-excel-sheet-column-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [1446-consecutive-characters](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1446-consecutive-characters) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
