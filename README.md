@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2578-split-with-minimum-sum](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2614-prime-in-diagonal](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2614-prime-in-diagonal) |
 | [2652-sum-multiples](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2652-sum-multiples) |
+| [2769-find-the-maximum-achievable-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 ## Enumeration
 |  |
