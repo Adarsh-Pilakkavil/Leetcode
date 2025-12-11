@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 ## Two Pointers
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Recursion
 |  |
 | ------- |
