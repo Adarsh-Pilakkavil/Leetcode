@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0415-add-strings) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1925-count-square-sum-triples) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0415-add-strings) |
 | [0832-flipping-an-image](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0832-flipping-an-image) |
 | [1929-concatenation-of-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0415-add-strings) |
 | [1446-consecutive-characters](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1446-consecutive-characters) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
