@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0695-max-area-of-island](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0695-max-area-of-island) |
 ## Hash Table
@@ -34,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0695-max-area-of-island) |
+## Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
