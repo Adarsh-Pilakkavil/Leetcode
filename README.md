@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0035-search-insert-position) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0217-contains-duplicate](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0035-search-insert-position) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Sorting
 |  |
