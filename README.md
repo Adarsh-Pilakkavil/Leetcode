@@ -20,12 +20,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1534-count-good-triplets](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1534-count-good-triplets) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Hash Table
 |  |
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0645-set-mismatch](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Counting Sort
 |  |
 | ------- |
@@ -68,4 +71,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0645-set-mismatch) |
+## Greedy
+|  |
+| ------- |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+## Simulation
+|  |
+| ------- |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 <!---LeetCode Topics End-->
