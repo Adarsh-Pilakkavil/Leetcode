@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0268-missing-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1925-count-square-sum-triples) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -109,12 +112,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0268-missing-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0268-missing-number) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -133,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0832-flipping-an-image) |
 | [1720-decode-xored-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1720-decode-xored-array) |
