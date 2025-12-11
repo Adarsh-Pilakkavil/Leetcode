@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1025-divisor-game](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0338-counting-bits](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
@@ -510,11 +512,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1025-divisor-game) |
 | [2396-strictly-palindromic-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1025-divisor-game) |
 ## Bucket Sort
 |  |
 | ------- |
