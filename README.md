@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2469-convert-the-temperature](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2469-convert-the-temperature) |
+| [2485-find-the-pivot-integer](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 ## Enumeration
 |  |
@@ -426,4 +427,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2485-find-the-pivot-integer](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2485-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
