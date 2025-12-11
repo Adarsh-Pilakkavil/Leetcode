@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0695-max-area-of-island](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0695-max-area-of-island) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0695-max-area-of-island) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Stack
 |  |
 | ------- |
@@ -43,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Binary Search
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
