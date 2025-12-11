@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2396-strictly-palindromic-number) |
+| [2413-smallest-even-multiple](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 ## Enumeration
 |  |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1952-three-divisors) |
+| [2413-smallest-even-multiple](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2413-smallest-even-multiple) |
 ## Brainteaser
 |  |
 | ------- |
