@@ -48,12 +48,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1903-largest-odd-number-in-string](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1925-count-square-sum-triples](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1925-count-square-sum-triples) |
+| [1952-three-divisors](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1952-three-divisors) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 ## Enumeration
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1534-count-good-triplets) |
 | [1925-count-square-sum-triples](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1925-count-square-sum-triples) |
+| [1952-three-divisors](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1952-three-divisors) |
 ## Array
 |  |
 | ------- |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1952-three-divisors) |
 ## Brainteaser
 |  |
 | ------- |
