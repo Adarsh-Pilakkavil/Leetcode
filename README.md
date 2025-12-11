@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2917-find-the-k-or-of-an-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2917-find-the-k-or-of-an-array) |
+| [2942-find-words-containing-character](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2942-find-words-containing-character) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Hash Table
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2864-maximum-odd-binary-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2864-maximum-odd-binary-number) |
+| [2942-find-words-containing-character](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 ## Two Pointers
 |  |
