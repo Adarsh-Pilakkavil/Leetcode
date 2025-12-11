@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1816-truncate-sentence](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1816-truncate-sentence) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1929-concatenation-of-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1323-maximum-69-number) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Heap (Priority Queue)
