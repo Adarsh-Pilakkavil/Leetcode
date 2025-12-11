@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0832-flipping-an-image) |
 | [0912-sort-an-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0912-sort-an-array) |
 | [0942-di-string-match](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0942-di-string-match) |
+| [1051-height-checker](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1051-height-checker) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0383-ransom-note) |
 | [0561-array-partition](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bit Manipulation
 |  |
