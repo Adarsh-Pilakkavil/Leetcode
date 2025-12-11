@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2614-prime-in-diagonal](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2614-prime-in-diagonal) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [2784-check-if-array-is-good](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Hash Table
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
+| [2784-check-if-array-is-good](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Depth-First Search
 |  |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2578-split-with-minimum-sum](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2578-split-with-minimum-sum) |
+| [2784-check-if-array-is-good](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Counting Sort
 |  |
