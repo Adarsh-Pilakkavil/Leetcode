@@ -6,7 +6,10 @@ class Solution:
                 if res not in l:
                     l.append(res)
                 return
-            bt(res+(s[i].upper()),i+1)
-            bt(res+(s[i].lower()),i+1)
+            if s[i].isalpha():
+                bt(res+(s[i].upper()),i+1)
+                bt(res+(s[i].lower()),i+1)
+            else:
+                bt(res+s[i],i+1)
         bt("",0)
         return l
