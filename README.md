@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2578-split-with-minimum-sum](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2614-prime-in-diagonal](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2614-prime-in-diagonal) |
 | [2652-sum-multiples](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2652-sum-multiples) |
+| [2698-find-the-punishment-number-of-an-integer](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2698-find-the-punishment-number-of-an-integer) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2843-count-symmetric-integers](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2843-count-symmetric-integers) |
 | [2864-maximum-odd-binary-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2864-maximum-odd-binary-number) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-letter-case-permutation](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0784-letter-case-permutation) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1980-find-unique-binary-string](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [2698-find-the-punishment-number-of-an-integer](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2698-find-the-punishment-number-of-an-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
