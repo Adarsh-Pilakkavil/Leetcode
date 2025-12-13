@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0066-plus-one) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0078-subsets) |
