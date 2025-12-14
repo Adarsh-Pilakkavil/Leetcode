@@ -9,8 +9,8 @@ class Solution:
                 s+="1"
                 bt(i-1,s)
             else:
-                bt(i-1,s+"1")
                 bt(i-1,s+"0")
+                bt(i-1,s+"1")
             return
         bt(n,"")
         return l
