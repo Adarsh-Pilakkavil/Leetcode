@@ -463,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0202-happy-number) |
 | [0832-flipping-an-image](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0832-flipping-an-image) |
+| [0876-middle-of-the-linked-list](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0942-di-string-match](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0942-di-string-match) |
 | [2000-reverse-prefix-of-word](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2396-strictly-palindromic-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2396-strictly-palindromic-number) |
@@ -571,4 +572,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
