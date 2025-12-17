@@ -14,7 +14,11 @@ class Solution:
         if l==0 or l==1:
             return head
         if k>l:
-            k=k%l
+            if k==l:
+                return head
+            else:
+                k=k%l
+        
         while k!=0:
             curr=head
             last=head
