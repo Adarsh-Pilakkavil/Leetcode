@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1672-richest-customer-wealth) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2614-prime-in-diagonal](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2614-prime-in-diagonal) |
 ## Stack
 |  |
