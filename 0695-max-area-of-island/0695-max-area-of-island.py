@@ -8,7 +8,8 @@ class Solution:
 
         for r in range(self.m):
             for c in range(self.n):
-                res = max(res, self.dfs(r, c))
+                if grid[r][c]==1:
+                    res = max(res, self.dfs(r, c))
         
         return res
 
