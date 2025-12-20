@@ -1,5 +1,5 @@
-class Solution(object):
-    def generate(self, numRows):
+class Solution:
+    def generate(self, numRows: int) -> List[List[int]]:
         l=[[1]]
         k=[]
         for i in range(0,numRows,1):
@@ -16,5 +16,3 @@ class Solution(object):
             l.append(k)
             k=[]
         return l
-                
-        
