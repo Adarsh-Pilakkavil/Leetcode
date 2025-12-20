@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0832-flipping-an-image) |
 | [0912-sort-an-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0912-sort-an-array) |
 | [0942-di-string-match](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0942-di-string-match) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0989-add-to-array-form-of-integer](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1051-height-checker](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0784-letter-case-permutation](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0784-letter-case-permutation) |
 | [0942-di-string-match](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0942-di-string-match) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1021-remove-outermost-parentheses](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
