@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2614-prime-in-diagonal](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2614-prime-in-diagonal) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2784-check-if-array-is-good](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2784-check-if-array-is-good) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3467-transform-array-by-parity](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2864-maximum-odd-binary-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [2937-make-three-strings-equal](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2937-make-three-strings-equal) |
