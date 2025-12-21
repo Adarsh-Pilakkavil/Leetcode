@@ -467,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2129-capitalize-the-title](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2129-capitalize-the-title) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
