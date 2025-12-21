@@ -444,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0415-add-strings) |
+| [0520-detect-capital](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0520-detect-capital) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0709-to-lower-case](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0771-jewels-and-stones) |
