@@ -1,9 +1,9 @@
-class Solution(object):
-    def toLowerCase(self, s):
-        st=""
-        for a in s:
-            if ord(a)>=65 and ord(a)<=90:
-                st+=chr(ord(a)+32)
+class Solution:
+    def toLowerCase(self, s: str) -> str:
+        k=''
+        for i in s:
+            if "A"<=i<="Z":
+                k+=chr(ord(i)+32)
             else:
-                st+=a
-        return st
+                k+=i
+        return k
