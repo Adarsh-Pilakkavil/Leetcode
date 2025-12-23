@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
+| [2716-minimize-string-length](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2716-minimize-string-length) |
 | [2784-check-if-array-is-good](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
+| [2716-minimize-string-length](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2716-minimize-string-length) |
 | [2864-maximum-odd-binary-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [2937-make-three-strings-equal](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2937-make-three-strings-equal) |
 | [2942-find-words-containing-character](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2942-find-words-containing-character) |
