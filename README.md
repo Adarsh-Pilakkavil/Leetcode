@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0682-baseball-game](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Monotonic Stack
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1446-consecutive-characters](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1446-consecutive-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
