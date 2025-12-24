@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1534-count-good-triplets) |
 | [1572-matrix-diagonal-sum](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [1598-crawler-log-folder](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1598-crawler-log-folder) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1720-decode-xored-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1720-decode-xored-array) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1544-make-the-string-great) |
+| [1598-crawler-log-folder](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1446-consecutive-characters](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1446-consecutive-characters) |
 | [1544-make-the-string-great](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1544-make-the-string-great) |
+| [1598-crawler-log-folder](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
