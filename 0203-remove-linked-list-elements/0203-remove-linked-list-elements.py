@@ -6,8 +6,8 @@
 class Solution:
     def removeElements(self, head: Optional[ListNode], val: int) -> Optional[ListNode]:
         dummy=ListNode(-1)
+        dummy.next=head
         prev=dummy
-        prev.next=head
         while prev.next!=None:
             if prev.next.val==val:
                 prev.next=prev.next.next
