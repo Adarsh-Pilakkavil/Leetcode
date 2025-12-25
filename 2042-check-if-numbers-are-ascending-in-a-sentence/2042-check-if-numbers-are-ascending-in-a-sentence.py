@@ -1,22 +1,9 @@
 class Solution:
     def areNumbersAscending(self, s: str) -> bool:
-        l=0
-        k=""
-        for i in s:
-            if 48<=ord(i)<=57:
-                k+=i
-            elif k!="" and i==" ":
-                if l<int(k):
-                    l=int(k)
-                    print(l)
-                else:
+        l=-1
+        for i in s.split():
+            if i[0].isdigit():
+                if int(i)<=l:
                     return False
-                k=""
-            else:
-                k=""
-        if k!="":
-                if l<int(k):
-                    l=int(k)
-                else:
-                    return False
+                l=int(i)
         return True
