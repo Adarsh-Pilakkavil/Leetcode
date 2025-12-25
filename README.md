@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2000-reverse-prefix-of-word](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1518-water-bottles) |
 | [1603-design-parking-system](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1603-design-parking-system) |
 | [1688-count-of-matches-in-tournament](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1920-build-array-from-permutation](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1816-truncate-sentence](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1816-truncate-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1980-find-unique-binary-string](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2000-reverse-prefix-of-word](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2000-reverse-prefix-of-word) |
