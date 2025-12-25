@@ -1,0 +1,17 @@
+class Solution:
+    def nextGreaterElements(self, nums: List[int]) -> List[int]:
+        l=[]
+        for i in range(len(nums)):
+            j=i+1
+            while i!=j:
+                if j==len(nums):
+                    j=0
+                    continue
+                if nums[j]>nums[i]:
+                    l.append(nums[j])
+                    break
+                else:
+                    j+=1
+            if i==j:
+                l.append(-1)
+        return l
