@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2126-destroying-asteroids](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2126-destroying-asteroids](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1903-largest-odd-number-in-string](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2126-destroying-asteroids](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
