@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0912-sort-an-array) |
 | [0942-di-string-match](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
+| [0946-validate-stack-sequences](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [0989-add-to-array-form-of-integer](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1051-height-checker](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0844-backspace-string-compare) |
+| [0946-validate-stack-sequences](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1021-remove-outermost-parentheses](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0844-backspace-string-compare) |
+| [0946-validate-stack-sequences](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1518-water-bottles](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1518-water-bottles) |
 | [1603-design-parking-system](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1603-design-parking-system) |
