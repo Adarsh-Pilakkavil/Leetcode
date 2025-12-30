@@ -9,5 +9,6 @@ class Solution:
             else:
                 neg.append(nums[i])
         for i in range(len(pos)):
-            l.extend([pos[i],neg[i]])
+            l.append(pos[i])
+            l.append(neg[i])
         return l
