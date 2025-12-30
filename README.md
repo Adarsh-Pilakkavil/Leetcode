@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2126-destroying-asteroids](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0942-di-string-match) |
 | [2000-reverse-prefix-of-word](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Trie
 |  |
