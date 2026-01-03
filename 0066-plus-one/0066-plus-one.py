@@ -1,14 +1,16 @@
-class Solution(object):
-    def plusOne(self, digits):
-        j=0
-        k=1
-        for i in digits:
-            j+=i*(10**(len(digits)-k))
-            k+=1
-        j+=1
-        k=str(j)
-        s=[]
-        for i in k:
-            s.append(int(i))
-        return s
-        
+class Solution:
+    def plusOne(self, l: List[int]) -> List[int]:
+        k=len(l)-1
+        while True:
+            if k==-1:
+                t=[1]
+                t.extend(l)
+                return t
+            else:
+                if l[k]==9:
+                    l[k]=0
+                    k-=1
+                    continue
+                else:
+                    l[k]=l[k]+1
+                    return l
