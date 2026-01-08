@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0048-rotate-image) |
+| [0055-jump-game](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0078-subsets) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0134-gas-station) |
 | [0409-longest-palindrome](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0561-array-partition) |
@@ -636,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0119-pascals-triangle-ii) |
