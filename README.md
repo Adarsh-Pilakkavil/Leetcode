@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 | [3174-clear-digits](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3174-clear-digits) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Monotonic Stack
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -640,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0509-fibonacci-number) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -755,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-merge-in-between-linked-lists](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1669-merge-in-between-linked-lists) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Design
 |  |
