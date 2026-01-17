@@ -6,7 +6,7 @@
 class Solution:
     def removeNodes(self, head: Optional[ListNode]) -> Optional[ListNode]:
         if not head or not head.next:
-            pass
+            return head
         else:
             curr=head
             prev=None
