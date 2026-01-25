@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2126-destroying-asteroids](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -796,4 +798,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1472-design-browser-history) |
+## Sliding Window
+|  |
+| ------- |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 <!---LeetCode Topics End-->
