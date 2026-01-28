@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0853-car-fleet) |
+| [0856-score-of-parentheses](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0946-validate-stack-sequences) |
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0784-letter-case-permutation](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0784-letter-case-permutation) |
 | [0844-backspace-string-compare](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
