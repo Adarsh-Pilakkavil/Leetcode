@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1021-remove-outermost-parentheses](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1472-design-browser-history](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1472-design-browser-history) |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1446-consecutive-characters](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1446-consecutive-characters) |
 | [1507-reformat-date](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1507-reformat-date) |
 | [1528-shuffle-string](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1528-shuffle-string) |
