@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0946-validate-stack-sequences) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1021-remove-outermost-parentheses](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1021-remove-outermost-parentheses](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1108-defanging-an-ip-address) |
