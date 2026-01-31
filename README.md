@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0739-daily-temperatures) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0832-flipping-an-image](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0832-flipping-an-image) |
 | [0853-car-fleet](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0853-car-fleet) |
 | [0912-sort-an-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0912-sort-an-array) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0441-arranging-coins) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Sorting
 |  |
