@@ -1,0 +1,52 @@
+class MyCircularDeque:
+
+    def __init__(self, k: int):
+        self.ma=k
+        self.l=[0]*k
+        self.length=0
+    def insertFront(self, value: int) -> bool:
+        if self.length==self.ma:
+            return False
+        self.l=[value]+self.l[:self.ma-1]
+        self.length+=1
+        return True
+    def insertLast(self, value: int) -> bool:
+        if self.length==self.ma:
+            return False
+        self.l=self.l[:self.length]+[value]+[0]*(self.ma-self.length-1)
+        self.length+=1
+        return True
+    def deleteFront(self) -> bool:
+        if self.length==0:
+            return False
+        self.l=self.l[1:]+[0]
+        self.length-=1
+        return True
+    def deleteLast(self) -> bool:
+        if self.length==0:
+            return False
+        self.l[self.length-1]=0
+        self.length-=1
+        return True
+    def getFront(self) -> int:
+        if self.length==0:
+            return -1
+        return self.l[0]
+    def getRear(self) -> int:
+        if self.length==0:
+            return -1
+        return self.l[self.length-1]
+    def isEmpty(self) -> bool:
+        return self.length==0
+    def isFull(self) -> bool:
+        return self.length==self.ma
+# Your MyCircularDeque object will be instantiated and called as such:
+# obj = MyCircularDeque(k)
+# param_1 = obj.insertFront(value)
+# param_2 = obj.insertLast(value)
+# param_3 = obj.deleteFront()
+# param_4 = obj.deleteLast()
+# param_5 = obj.getFront()
+# param_6 = obj.getRear()
+# param_7 = obj.isEmpty()
+# param_8 = obj.isFull()
