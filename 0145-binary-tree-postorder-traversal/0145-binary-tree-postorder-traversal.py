@@ -10,8 +10,8 @@ class Solution:
         def rec(t):
             if t is None:
                 return
-            res.append(t.val)
-            rec(t.right)
             rec(t.left)
+            rec(t.right)
+            res.append(t.val)
         rec(root)
-        return res[::-1]
+        return res
