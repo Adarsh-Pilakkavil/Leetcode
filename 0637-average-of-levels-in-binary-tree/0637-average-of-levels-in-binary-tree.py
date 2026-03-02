@@ -10,20 +10,18 @@ class Solution:
         q=deque()
         if not root:
             return []
-        res=[]
+        res=list()
         q.append(root)
-        level=[root.val]
-        while level:
-            res.append(sum(level)/len(level))
+        while q:
             l=len(q)
-            level=[]
+            s=0
             for i in range(l):
                 n=q.popleft()
+                s+=n.val
                 if n.left:
                     q.append(n.left)
-                    level.append(n.left.val)
                 if n.right:
-                    q.append(n.right)
-                    level.append(n.right.val)
+                    q.append(n.right)   
+            res.append(s/l)
         return res
             
