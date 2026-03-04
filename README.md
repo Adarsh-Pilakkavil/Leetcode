@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1046-last-stone-weight](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
