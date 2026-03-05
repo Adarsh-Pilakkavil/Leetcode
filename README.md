@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0113-path-sum-ii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -730,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0078-subsets) |
+| [0113-path-sum-ii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0784-letter-case-permutation](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0784-letter-case-permutation) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -882,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0113-path-sum-ii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -904,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0113-path-sum-ii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
