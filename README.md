@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0695-max-area-of-island) |
 | [0938-range-sum-of-bst](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
@@ -517,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1323-maximum-69-number) |
+| [1382-balance-a-binary-search-tree](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1903-largest-odd-number-in-string](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -755,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0912-sort-an-array) |
+| [1382-balance-a-binary-search-tree](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Number Theory
 |  |
 | ------- |
@@ -908,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -936,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
@@ -950,6 +955,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Iterator
 |  |
 | ------- |
