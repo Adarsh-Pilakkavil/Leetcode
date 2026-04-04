@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3174-clear-digits) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Monotonic Stack
@@ -580,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3100-water-bottles-ii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3100-water-bottles-ii) |
 | [3174-clear-digits](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3174-clear-digits) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -651,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2716-minimize-string-length](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2716-minimize-string-length) |
 | [2785-sort-vowels-in-a-string](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
