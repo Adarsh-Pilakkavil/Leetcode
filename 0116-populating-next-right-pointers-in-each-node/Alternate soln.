@@ -1,0 +1,31 @@
+"""
+# Definition for a Node.
+class Node:
+    def __init__(self, val: int = 0, left: 'Node' = None, right: 'Node' = None, next: 'Node' = None):
+        self.val = val
+        self.left = left
+        self.right = right
+        self.next = next
+"""
+from collections import deque
+class Solution:
+    def connect(self, root: 'Optional[Node]') -> 'Optional[Node]':
+        q=deque()
+        q.append(root)
+        l=[]
+        if root is None:
+            return
+        while q:
+            for i in range(len(q)):
+                n=q.popleft()
+                print(n.val)
+                if n.left:
+                    q.append(n.left)
+                    l.append(n.left)
+                if n.right:
+                    l.append(n.right)
+                    q.append(n.right)
+            for i in range(len(l)-1):
+                l[i].next=l[i+1]
+            l=[]
+        return root
