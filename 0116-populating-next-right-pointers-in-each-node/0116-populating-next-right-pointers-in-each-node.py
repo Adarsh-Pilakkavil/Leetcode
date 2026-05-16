@@ -10,22 +10,12 @@ class Node:
 from collections import deque
 class Solution:
     def connect(self, root: 'Optional[Node]') -> 'Optional[Node]':
-        q=deque()
-        q.append(root)
-        l=[]
-        if root is None:
+        if not root:
             return
-        while q:
-            for i in range(len(q)):
-                n=q.popleft()
-                print(n.val)
-                if n.left:
-                    q.append(n.left)
-                    l.append(n.left)
-                if n.right:
-                    l.append(n.right)
-                    q.append(n.right)
-            for i in range(len(l)-1):
-                l[i].next=l[i+1]
-            l=[]
+        if root.left:
+            root.left.next=root.right
+        if root.right and root.next:
+            root.right.next=root.next.left
+        self.connect(root.left)
+        self.connect(root.right)
         return root
