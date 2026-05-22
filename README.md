@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1903-largest-odd-number-in-string](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1925-count-square-sum-triples](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1925-count-square-sum-triples) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1816-truncate-sentence](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1816-truncate-sentence) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1920-build-array-from-permutation) |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1518-water-bottles) |
 | [1603-design-parking-system](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1603-design-parking-system) |
 | [1688-count-of-matches-in-tournament](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1920-build-array-from-permutation](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -731,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Dynamic Programming
 |  |
@@ -883,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0641-design-circular-deque](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0933-number-of-recent-calls) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Data Stream
 |  |
