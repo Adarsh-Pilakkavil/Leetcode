@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3805-count-caesar-cipher-pairs](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3805-count-caesar-cipher-pairs) |
 | [3895-count-digit-appearances](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3895-count-digit-appearances) |
 ## Enumeration
 |  |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
+| [3805-count-caesar-cipher-pairs](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3805-count-caesar-cipher-pairs) |
 | [3895-count-digit-appearances](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-find-missing-elements](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3805-count-caesar-cipher-pairs](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3805-count-caesar-cipher-pairs) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -505,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3467-transform-array-by-parity](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
+| [3805-count-caesar-cipher-pairs](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3805-count-caesar-cipher-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -703,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3798-largest-even-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3798-largest-even-number) |
+| [3805-count-caesar-cipher-pairs](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3805-count-caesar-cipher-pairs) |
 ## Two Pointers
 |  |
 | ------- |
