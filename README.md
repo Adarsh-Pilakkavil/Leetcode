@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0938-range-sum-of-bst](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0938-range-sum-of-bst) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -653,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1021-remove-outermost-parentheses](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -791,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0784-letter-case-permutation](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0784-letter-case-permutation) |
 | [0797-all-paths-from-source-to-target](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1980-find-unique-binary-string](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
@@ -973,6 +976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0938-range-sum-of-bst) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -1011,6 +1015,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0938-range-sum-of-bst) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
