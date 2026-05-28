@@ -636,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0171-excel-sheet-column-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0299-bulls-and-cows](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0383-ransom-note) |
@@ -770,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0131-palindrome-partitioning](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1025-divisor-game) |
@@ -790,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0784-letter-case-permutation](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0784-letter-case-permutation) |
 | [0797-all-paths-from-source-to-target](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
