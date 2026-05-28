@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2374-node-with-highest-edge-score](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2374-node-with-highest-edge-score) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -1027,6 +1028,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0207-course-schedule) |
 | [1791-find-center-of-star-graph](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2374-node-with-highest-edge-score](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2374-node-with-highest-edge-score) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Topological Sort
 |  |
