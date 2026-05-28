@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
 | ------- |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2614-prime-in-diagonal](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2614-prime-in-diagonal) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Stack
 |  |
 | ------- |
@@ -1024,6 +1026,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0207-course-schedule) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Topological Sort
 |  |
 | ------- |
