@@ -1,0 +1,13 @@
+class Solution:
+    def edgeScore(self, edges: List[int]) -> int:
+        adjList=[]
+        for i in range(len(edges)):
+            adjList.append([])
+        for j in range(len(edges)):
+            adjList[edges[j]].append(j)
+        ma,i=0,0
+        for j in range(len(adjList)):
+            if sum(adjList[j])>ma:
+                ma=sum(adjList[j])
+                i=j
+        return i
