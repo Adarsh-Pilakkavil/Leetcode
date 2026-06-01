@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0416-partition-equal-subset-sum](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -786,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0213-house-robber-ii) |
 | [0337-house-robber-iii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0338-counting-bits) |
+| [0416-partition-equal-subset-sum](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1137-n-th-tribonacci-number) |
