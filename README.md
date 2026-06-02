@@ -663,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0415-add-strings) |
@@ -752,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0392-is-subsequence](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0392-is-subsequence) |
 | [0832-flipping-an-image](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -803,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
