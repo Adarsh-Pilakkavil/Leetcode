@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3805-count-caesar-cipher-pairs](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3805-count-caesar-cipher-pairs) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3895-count-digit-appearances](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3895-count-digit-appearances) |
 ## Enumeration
 |  |
@@ -819,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1668-maximum-repeating-substring](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1668-maximum-repeating-substring) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Memoization
 |  |
 | ------- |
