@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [1903-largest-odd-number-in-string](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1925-count-square-sum-triples](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1952-three-divisors) |
@@ -824,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1668-maximum-repeating-substring](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1668-maximum-repeating-substring) |
+| [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Memoization
