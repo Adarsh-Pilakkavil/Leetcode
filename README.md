@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0069-sqrtx) |
@@ -807,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0118-pascals-triangle) |
@@ -917,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0062-unique-paths) |
 | [1641-count-sorted-vowel-strings](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1641-count-sorted-vowel-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
