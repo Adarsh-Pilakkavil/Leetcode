@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1518-water-bottles) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1641-count-sorted-vowel-strings](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1641-count-sorted-vowel-strings) |
 | [1688-count-of-matches-in-tournament](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
@@ -824,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1143-longest-common-subsequence) |
+| [1641-count-sorted-vowel-strings](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1641-count-sorted-vowel-strings) |
 | [1668-maximum-repeating-substring](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1668-maximum-repeating-substring) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
@@ -915,6 +917,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1641-count-sorted-vowel-strings](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1641-count-sorted-vowel-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Linked List
