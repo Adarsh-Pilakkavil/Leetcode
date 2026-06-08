@@ -1,18 +1,11 @@
-class Solution(object):
-    def pivotArray(self, nums, pivot):
-        """
-        :type nums: List[int]
-        :type pivot: int
-        :rtype: List[int]
-        """
-        c=0
-        left=[]
-        right=[]
-        for i in nums:
-            if i<pivot:
-                left.append(i)
-            elif i>pivot:
-                right.append(i)
+class Solution:
+    def pivotArray(self, nums: List[int], pivot: int) -> List[int]:
+        a,b,c=[],0,[]
+        for i in range(len(nums)):
+            if nums[i]>pivot:
+                c.append(nums[i])
+            elif nums[i]<pivot:
+                a.append(nums[i])
             else:
-                c+=1
-        return left+[pivot]*c+right 
+                b+=1
+        return a+b*[pivot]+c
