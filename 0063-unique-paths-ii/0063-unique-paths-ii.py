@@ -2,7 +2,7 @@ class Solution:
     def uniquePathsWithObstacles(self, obstacleGrid: List[List[int]]) -> int:
         m=len(obstacleGrid)
         n=len(obstacleGrid[0])
-        dp=[[0-1]*n for _ in range(m)]
+        dp=[[-1]*n for _ in range(m)]
         def rec(i,j,dp,obstacleGrid):
             if i>=m or j>=n or obstacleGrid[i][j]:
                 return 0
