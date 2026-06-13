@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3099-harshad-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3099-harshad-number) |
 | [3100-water-bottles-ii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3100-water-bottles-ii) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3227-vowels-game-in-a-string](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
@@ -755,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3174-clear-digits](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3174-clear-digits) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3227-vowels-game-in-a-string](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3280-convert-date-to-binary](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3280-convert-date-to-binary) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -910,11 +912,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0319-bulb-switcher) |
 | [1025-divisor-game](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1025-divisor-game) |
 | [2396-strictly-palindromic-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2396-strictly-palindromic-number) |
+| [3227-vowels-game-in-a-string](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3227-vowels-game-in-a-string) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1025-divisor-game) |
+| [3227-vowels-game-in-a-string](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3227-vowels-game-in-a-string) |
 ## Bucket Sort
 |  |
 | ------- |
