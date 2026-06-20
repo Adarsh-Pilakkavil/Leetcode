@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0136-single-number) |
@@ -857,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0198-house-robber) |
