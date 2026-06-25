@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3805-count-caesar-cipher-pairs](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3805-count-caesar-cipher-pairs) |
 | [3838-weighted-word-mapping](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3838-weighted-word-mapping) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3668-restore-finishing-order](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-find-missing-elements](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3731-find-missing-elements) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3805-count-caesar-cipher-pairs](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3805-count-caesar-cipher-pairs) |
 ## Depth-First Search
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3467-transform-array-by-parity](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3467-transform-array-by-parity) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3805-count-caesar-cipher-pairs](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3805-count-caesar-cipher-pairs) |
 ## Bit Manipulation
@@ -919,6 +922,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0912-sort-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -958,6 +962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0912-sort-an-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Radix Sort
 |  |
 | ------- |
@@ -970,6 +975,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2485-find-the-pivot-integer](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Combinatorics
 |  |
 | ------- |
@@ -1200,4 +1206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
