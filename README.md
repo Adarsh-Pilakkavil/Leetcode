@@ -391,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Union Find
 |  |
@@ -1189,6 +1191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
@@ -1205,6 +1208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2374-node-with-highest-edge-score](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2374-node-with-highest-edge-score) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Topological Sort
