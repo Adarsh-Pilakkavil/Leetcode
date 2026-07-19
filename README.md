@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0342-power-of-four) |
+| [0365-water-and-jug-problem](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0337-house-robber-iii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0337-house-robber-iii) |
+| [0365-water-and-jug-problem](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0322-coin-change) |
+| [0365-water-and-jug-problem](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0513-find-bottom-left-tree-value](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
