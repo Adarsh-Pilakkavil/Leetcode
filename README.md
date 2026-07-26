@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0507-perfect-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0877-stone-game](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0877-stone-game) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0561-array-partition) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0641-design-circular-deque](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0641-design-circular-deque) |
 | [0645-set-mismatch](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0645-set-mismatch) |
 | [0853-car-fleet](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0853-car-fleet) |
 | [0912-sort-an-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0912-sort-an-array) |
