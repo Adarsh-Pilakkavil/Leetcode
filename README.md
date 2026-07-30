@@ -813,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2315-count-asterisks](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2315-count-asterisks) |
 | [2390-removing-stars-from-a-string](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
