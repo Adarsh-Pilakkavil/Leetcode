@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -573,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2578-split-with-minimum-sum](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2784-check-if-array-is-good](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2785-sort-vowels-in-a-string](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3467-transform-array-by-parity](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -606,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3467-transform-array-by-parity](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -677,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2864-maximum-odd-binary-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -825,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2937-make-three-strings-equal](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2937-make-three-strings-equal) |
 | [2942-find-words-containing-character](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2942-find-words-containing-character) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3110-score-of-a-string](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
