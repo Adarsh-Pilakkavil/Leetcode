@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -708,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0412-fizz-buzz) |
