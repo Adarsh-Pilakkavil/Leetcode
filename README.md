@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1025-divisor-game](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1140-stone-game-ii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1140-stone-game-ii) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1046-last-stone-weight](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1051-height-checker) |
+| [1140-stone-game-ii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1140-stone-game-ii) |
 | [1200-minimum-absolute-difference](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -954,6 +956,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1140-stone-game-ii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1406-stone-game-iii) |
 | [1641-count-sorted-vowel-strings](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1641-count-sorted-vowel-strings) |
@@ -1031,6 +1034,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1406-stone-game-iii) |
 | [3227-vowels-game-in-a-string](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3227-vowels-game-in-a-string) |
 ## Bucket Sort
@@ -1055,6 +1059,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1140-stone-game-ii) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2485-find-the-pivot-integer](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2485-find-the-pivot-integer) |
@@ -1301,9 +1306,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
