@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1406-stone-game-iii) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1486-xor-operation-in-an-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [1510-stone-game-iv](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1518-water-bottles) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -959,6 +960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1510-stone-game-iv) |
 | [1641-count-sorted-vowel-strings](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1641-count-sorted-vowel-strings) |
 | [1668-maximum-repeating-substring](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1668-maximum-repeating-substring) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
@@ -1036,6 +1038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1510-stone-game-iv) |
 | [3227-vowels-game-in-a-string](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3227-vowels-game-in-a-string) |
 ## Bucket Sort
 |  |
@@ -1308,9 +1311,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
