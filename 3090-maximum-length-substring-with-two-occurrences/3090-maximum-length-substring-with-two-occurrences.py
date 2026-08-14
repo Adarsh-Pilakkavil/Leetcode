@@ -12,6 +12,5 @@ class Solution:
                     start+=1
             else:
                 d[s[i]]=d.get(s[i],0)+1
-            print(ans)
         ans=max(ans,i-start+1)
         return ans
