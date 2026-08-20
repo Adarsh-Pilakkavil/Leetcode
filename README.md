@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -755,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-count-distinct-numbers-on-board](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3100-water-bottles-ii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3100-water-bottles-ii) |
 | [3174-clear-digits](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3174-clear-digits) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
