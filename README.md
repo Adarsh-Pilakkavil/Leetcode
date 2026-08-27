@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2843-count-symmetric-integers](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/2843-count-symmetric-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Array
 |  |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3668-restore-finishing-order](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -639,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3467-transform-array-by-parity](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3805-count-caesar-cipher-pairs](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3805-count-caesar-cipher-pairs) |
@@ -717,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Heap (Priority Queue)
@@ -880,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3798-largest-even-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/3798-largest-even-number) |
