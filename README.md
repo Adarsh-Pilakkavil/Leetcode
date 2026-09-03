@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0509-fibonacci-number) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0486-predict-the-winner) |
