@@ -829,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0940-distinct-subsequences-ii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [0942-di-string-match](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
@@ -1000,6 +1001,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1140-stone-game-ii) |
