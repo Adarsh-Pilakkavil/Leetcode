@@ -1423,6 +1423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Adarsh-Pilakkavil/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Geometry
 |  |
 | ------- |
